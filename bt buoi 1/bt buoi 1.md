@@ -5,7 +5,6 @@ Python là ngôn ngữ thông dịch.
 Bài 2:
 Các kiểu dữ liệu trong Python
 Python cung cấp nhiều kiểu dữ liệu khác nhau để lưu trữ và thao tác thông tin. Một số kiểu dữ liệu phổ biến nhất bao gồm:
-
 Kiểu số:
 
 Số nguyên (int)
